@@ -19,17 +19,17 @@ Es una cazadora coreana de rango S y vicemaestra del Gremio de Cazadores .
 Fue un cazador coreano de rango S y presidente de la Asociación de Cazadores de Corea .
 
 ## ✔️ SISTEMA DE RANGOS ✔️
-### E  
+### Rango E  
 Muy Bajo -> Los más débiles, a menudo considerados 'carnaza' o de apoyo básico.
-### D
+### Rango D
 Bajo -> Principiantes con poder mágico limitado, superior a los de Rango E.
-### C
+### Rango C
 Medio -> Luchadores de entidad, capaces de misiones estándar.
-### B 
+### Rango B 
 Alto -> Cazadores muy poderosos, capaces de realizar grandes gestas.
-### A
+### Rango A
 Muy Alto -> Guerreros de poder demoledor, capaces de afrontar casi cualquier puerta.
-### S
+### Rango S
 Máximo ->La élite mundial, estandartes de los gremios, con poder político y económico.
 
 ## 🎮 CONTENIDO MULTIMEDIA 🎮
