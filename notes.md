@@ -4,4 +4,4 @@
 + Commit to git
 + Return to main
 + Merge
-+ Added line to simulate conflict when merging in Git
++ Change line to simulate conflict when merging in Git
