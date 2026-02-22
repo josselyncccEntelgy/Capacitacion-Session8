@@ -1,3 +1,6 @@
-# TEST
-+ First test failed
-+ Second test
+# NOTES
++ Create feature/notes branch
++ Add notes.md file
++ Commit to git
++ Return to main
++ Merge
