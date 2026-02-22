@@ -1,5 +1,5 @@
 # NOTES
-+ Create feature/notes branch
++ Modified line
 + Add notes.md file
 + Commit to git
 + Return to main
